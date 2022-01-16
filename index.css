@@ -1,0 +1,148 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;500;600;700;800&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+html {
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+a.resume {
+    display: block;
+    color: gray;
+    text-decoration: none;
+    font-size: large;
+    margin: 20px;
+    font-size: 150%;
+}
+h1.name {
+    font-size: 450%;
+    font-weight: 350;
+    margin-top: 100px;
+    margin-bottom: 5px;
+    margin-left: 80px;
+    width: 80%;
+    margin-right: 100px;
+}
+p.littlebio{
+    margin-left: 85px;
+    font-size: large;
+    font-weight: 300;
+    margin-top: 2px;
+}
+div a img{
+    border-radius: 50%;
+    margin-right: auto;
+    margin-left: 100px;
+   
+}
+div.nameandpic{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.head-about-me {
+    font-size: 50px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+div.aboutme{
+    margin-left: 85px;
+    margin-right: 0%;
+    width: 50%;
+}
+h1.head-about-me+p{
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 8%;
+    letter-spacing: 2px;
+}
+p.about-me{
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    font-weight: 300;
+    margin-top: 30px;
+    margin-right: 0px;
+    padding-top: 20px;
+    padding-right: 100px;
+    text-align: left;
+    line-height: 23px;
+}
+div.fullbioandskills{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 80px;
+}
+div.skills{
+    margin-left: 80px;
+    margin-top: 100px;
+    font-size: 20px;
+}
+div p.head-skills{
+    font-size: 35px;
+    letter-spacing: 2px;
+    font-weight: 400;
+}
+progress {
+    font-size: 30px;
+}
+div.tech{
+    margin-top: 90px;
+    margin-left: 75px;
+}
+div h1.htech {
+    font-size: 50px;
+    font-weight: 400;
+}
+h3.icn{
+    font-weight: 300;
+}
+div.java,.cpp,.javascript,.react,.html,.css,.android,.bootstrap,.typescript,.node{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 20px;
+    width: 43%;
+    margin-right: 0px;
+    
+}
+h3.icn{
+    margin-left: 30px;
+}
+div.icons{
+    flex-direction: row;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+div.college-education{
+    padding: 50px;
+    padding-left: 85px;
+}
+h1.hed{
+    font-size: 50px;
+    font-weight: 400;
+}
+p.hedp1{
+    font-size: 25px;
+    font-weight: 300;
+    margin-bottom: 4px;
+}
+p.hedp2{
+    margin-top: 0px;
+    font-size: 20px;
+    font-weight: 300;
+}
+p.hedp3{
+    font-size: 15px;
+}
+div.connect-head{
+    font-size: 50px;
+    margin-left: 85px;
+    font-weight: 400;
+}
+div.connect a img{
+    margin-bottom: 30px;
+    margin-left: 85px;
+    margin-left: 100px;
+}
+
