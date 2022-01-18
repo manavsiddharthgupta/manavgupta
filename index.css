@@ -12,24 +12,25 @@ a.resume {
     font-size: 150%;
 }
 h1.name {
-    font-size: 450%;
+    font-size: 400%;
     font-weight: 350;
     margin-top: 100px;
     margin-bottom: 5px;
-    margin-left: 80px;
+    margin-left: 30px;
     width: 80%;
     margin-right: 100px;
 }
 p.littlebio{
-    margin-left: 85px;
+    margin-left: 35px;
     font-size: large;
     font-weight: 300;
     margin-top: 2px;
 }
 div a img{
     border-radius: 50%;
-    margin-right: auto;
-    margin-left: 100px;
+    margin-right: 30px;
+    margin-left: 150px;
+
    
 }
 div.nameandpic{
@@ -44,9 +45,9 @@ div.nameandpic{
     letter-spacing: 2px;
 }
 div.aboutme{
-    margin-left: 85px;
+    margin-left: 30px;
     margin-right: 0%;
-    width: 50%;
+    width: 55%;
 }
 h1.head-about-me+p{
     font-size: 30px;
@@ -61,7 +62,7 @@ p.about-me{
     margin-top: 30px;
     margin-right: 0px;
     padding-top: 20px;
-    padding-right: 100px;
+    padding-right: 140px;
     text-align: left;
     line-height: 23px;
 }
@@ -72,7 +73,7 @@ div.fullbioandskills{
     margin-top: 80px;
 }
 div.skills{
-    margin-left: 80px;
+    margin-left: 30px;
     margin-top: 100px;
     font-size: 20px;
 }
@@ -86,7 +87,7 @@ progress {
 }
 div.tech{
     margin-top: 90px;
-    margin-left: 75px;
+    margin-left: 30px;
 }
 div h1.htech {
     font-size: 50px;
@@ -99,8 +100,8 @@ div.java,.cpp,.javascript,.react,.html,.css,.android,.bootstrap,.typescript,.nod
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    padding: 20px;
-    width: 43%;
+    padding: 6px;
+    width: 49%;
     margin-right: 0px;
     
 }
@@ -116,7 +117,7 @@ div.icons{
 }
 div.college-education{
     padding: 50px;
-    padding-left: 85px;
+    padding-left: 30px;
 }
 h1.hed{
     font-size: 50px;
@@ -137,7 +138,7 @@ p.hedp3{
 }
 div.connect-head{
     font-size: 50px;
-    margin-left: 85px;
+    margin-left: 30px;
     font-weight: 400;
 }
 div.connect a img{
