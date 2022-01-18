@@ -62,7 +62,7 @@ p.about-me{
     margin-top: 30px;
     margin-right: 0px;
     padding-top: 20px;
-    padding-right: 140px;
+    padding-right: 80px;
     text-align: left;
     line-height: 23px;
 }
@@ -103,10 +103,11 @@ div.java,.cpp,.javascript,.react,.html,.css,.android,.bootstrap,.typescript,.nod
     padding: 6px;
     width: 49%;
     margin-right: 0px;
+    padding-top: 20px;
     
 }
 h3.icn{
-    margin-left: 30px;
+    margin-left: 10px;
 }
 div.icons{
     flex-direction: row;
@@ -143,7 +144,7 @@ div.connect-head{
 }
 div.connect a img{
     margin-bottom: 30px;
-    margin-left: 85px;
-    margin-left: 100px;
+    margin-left: 35px;
+    margin-right: 100px;
 }
 
